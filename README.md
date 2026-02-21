@@ -1,4 +1,4 @@
-# 📉 Customer Churn Intelligence Platform  
+# 📉 Telecom Customer Churn Prediction & Analytics Model
 ### End-to-End Machine Learning & Cloud Analytics Solution
 
 Customer Churn Intelligence Platform is a full-stack data analytics project designed to predict customer churn and generate actionable retention insights using Machine Learning, Cloud Databases, and Business Intelligence tools.
