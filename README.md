@@ -166,6 +166,7 @@ Aspiring Data Analyst & Business Analyst
 ## 📷 Screenshots
 <img width="1600" height="921" alt="image" src="https://github.com/user-attachments/assets/d2ca5f43-0dc4-4e82-b5e7-846474bf075a" />
 <img width="1568" height="848" alt="image" src="https://github.com/user-attachments/assets/b8971f63-e3c0-483b-b598-43c6bf85eff4" />
+<img width="2000" height="1058" alt="image" src="https://github.com/user-attachments/assets/43d747a1-ec69-4cd9-b84b-891a2f96f2b6" />
 <img width="693" height="326" alt="image" src="https://github.com/user-attachments/assets/f38be2cf-6aa8-4acb-a924-5dcf5c816c3f" />
 <img width="588" height="346" alt="image" src="https://github.com/user-attachments/assets/794afacf-c12c-47be-a1ff-1a60b6632416" />
 
